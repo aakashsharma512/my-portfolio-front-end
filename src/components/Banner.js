@@ -9,7 +9,7 @@ export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
   const [text, setText] = useState('');
-  const [delta, setDelta] = useState(150); // Reduced delta for faster typing
+  const [delta, setDelta] = useState(150); 
   const toRotate = ["Web Developer", "Frontend Developer"];
   const typingSpeed = 100; // Typing speed
   const deletingSpeed = 50; // Deleting speed
@@ -64,7 +64,7 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                  "Front End Developer with 2.5 years of experience specializing in React and Next.js.
+                  "Front End Developer with 2.5 years of experience specializing in React & Next.js .
                    Proven expertise in building scalable web applications and delivering seamless user experiences.
                    Skilled in driving product roadmaps and collaborating with cross-functional teams to achieve project goals."
                   </p>
