@@ -83,10 +83,11 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p>I have led the development of scalable front-end solutions for e-commerce platforms, enhancing user engagement.
+                My experience includes designing cloud-native systems on AWS to optimize performance and scalability.</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p>I’ve implemented advanced security integrations like OAuth and SAML for seamless user access.</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
