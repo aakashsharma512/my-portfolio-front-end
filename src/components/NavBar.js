@@ -34,7 +34,7 @@ export const NavBar = () => {
 
   return (
     <Router>
-      <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
+      <Navbar expand="md" className={scrolled ? "scrolled" : " "}>
         <Container>
          
           <Navbar.Toggle aria-controls="basic-navbar-nav">
