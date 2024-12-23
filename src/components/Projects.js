@@ -16,7 +16,7 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
+      title: "Bussiness  Development",
       description: "Design & Development",
       imgUrl: projImg2,
     },
@@ -41,7 +41,7 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
   ];
-//comments for test
+//comments for testatus
   return (
     <section className="project" id="projects">
       <Container>
