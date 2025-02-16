@@ -52,8 +52,7 @@ export const Projects = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
                 <p>I have led the development of scalable front-end solutions for e-commerce platforms, enhancing user engagement.
-                My experience includes designing cloud-native systems on AWS to optimize performance and scalability.
-                I’ve implemented advanced security integrations like OAuth and SAML for seamless user access.
+                My experience includes 
                 </p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
